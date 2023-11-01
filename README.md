@@ -20,9 +20,14 @@
 ### These features collectively make your BMI Calculator app a valuable tool for users to monitor and assess their health and body weight, providing a quick and easy way to gauge their fitness status.
 
 # Screenshot:
+
+### Normal
 ![image](https://github.com/saicharan21-dev/bmi_app/assets/75615707/6694e605-a8bd-4656-9daa-56350dc0113d)
+### Healthy
 ![image](https://github.com/saicharan21-dev/bmi_app/assets/75615707/e31e21b2-e270-4cba-8880-c49fe44a1f22)
+### OverWeight 
 ![image](https://github.com/saicharan21-dev/bmi_app/assets/75615707/06de26db-c70b-49d7-a35b-4314e93504d4)
+### UnderWeight
 ![image](https://github.com/saicharan21-dev/bmi_app/assets/75615707/96f27573-042a-4427-9fc3-98778bf608cd)
 
 

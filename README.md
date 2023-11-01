@@ -19,7 +19,7 @@
 
 ### These features collectively make your BMI Calculator app a valuable tool for users to monitor and assess their health and body weight, providing a quick and easy way to gauge their fitness status.
 
-Screenshot:
+# Screenshot:
 ![image](https://github.com/saicharan21-dev/bmi_app/assets/75615707/6694e605-a8bd-4656-9daa-56350dc0113d)
 ![image](https://github.com/saicharan21-dev/bmi_app/assets/75615707/e31e21b2-e270-4cba-8880-c49fe44a1f22)
 ![image](https://github.com/saicharan21-dev/bmi_app/assets/75615707/06de26db-c70b-49d7-a35b-4314e93504d4)

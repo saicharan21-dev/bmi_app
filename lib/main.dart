@@ -101,7 +101,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         msg = "You are Overweight";
                         bgColor = Colors.orange.shade200;
                       } else if (bmi < 18) {
-                        msg = "You are Hemanth";
+                        msg = "You are Underweight";
                         bgColor = Colors.red.shade500;
                       } else {
                         msg = "You are healthy";

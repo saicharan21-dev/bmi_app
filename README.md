@@ -13,7 +13,7 @@
 
 ### User-Friendly Interface: The app features an intuitive and user-friendly interface with clearly labeled input fields, a "Calculate" button, and easy-to-read results.
 
-### Visual Feedback: The background color change provides a visual and intuitive way for users to quickly assess their health status, making the app engaging and informative.
+### Visual Feedback: The background color change provides a visual and intuitive way for users to quickly assess their health status, making the app engaging and informative
 
 ### Feedback Messages: The app provides feedback messages or labels to accompany the BMI result, helping users understand their health assessment and any recommended actions.
 

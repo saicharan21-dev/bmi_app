@@ -22,7 +22,8 @@
 # Screenshot:
 
 ### Normal
-![image](https://github.com/saicharan21-dev/bmi_app/assets/75615707/6694e605-a8bd-4656-9daa-56350dc0113d)
+![image](https://github.com/saicharan21-dev/bmi_app/assets/75615707/3d188f64-e15a-4724-b8cd-ae1632ad6974)
+
 ### Healthy
 ![image](https://github.com/saicharan21-dev/bmi_app/assets/75615707/e31e21b2-e270-4cba-8880-c49fe44a1f22)
 ### OverWeight 
